@@ -1,0 +1,23 @@
+{
+    "console": [
+        {
+          "id": 1,
+          "tittle":"" ,
+          "description": "",
+          "author": "",
+          "genre": "",
+          "price": 44.95,
+          "published_date": ""
+        },
+        {
+            "id": 1,
+            "tittle":"" ,
+            "description": "",
+            "author": "",
+            "genre": "",
+            "price": 44.95,
+            "published_date": ""
+        }
+    ],
+    "colors": false 
+}
